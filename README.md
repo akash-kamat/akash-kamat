@@ -12,6 +12,8 @@
 
 > Programming, music, anime, games and cinematography ❤️
 
+# [Portfolio](https://akash-kamat.github.io/)
+
 ## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mongodb,express,nodejs,py&perline=4)](https://skillicons.dev)
