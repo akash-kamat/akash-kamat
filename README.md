@@ -1,18 +1,12 @@
 # Hey! I'm Akash Kamat 👋  
 **Full-Stack Developer**
 
-## 🔧 Tech Toolbox  
+##  About me  
 - I speak `Python`, `Java`, and `C++`... but not fluently (yet)  
 - Building ~~catastrophes~~ projects with **MERN** stack  
 - Mobile dev? **React Native** has my ~~tears~~ code  
 - Secretly enjoy backend work because CSS is my sleep paralysis demon  
-
-## 🎯 Life Goals  
-- Become a **Software Wizard** 🧙♂️ (preferably backend, frontend is scary)  
-- Design a video game where the final boss is a CSS grid 👾  
-- Start a YouTube channel: "Singing SQL Queries" (ASMR joins included)   
-
-## ⚡ Fun(?) Facts  
+##  Fun(?) Facts  
 - My singing could make angels cry *(not in a good way)*  
 - 98% of my camera roll: random bugs (both insects and code)  
 - Anime completed list > lines of code written  
