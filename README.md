@@ -4,13 +4,7 @@
 ##  About me  
 - I speak `Python`, `Java`, and `C++`... but not fluently (yet)  
 - Building ~~catastrophes~~ projects with **MERN** stack  
-- Mobile dev? **React Native** has my ~~tears~~ code  
 - Secretly enjoy backend work because CSS is my sleep paralysis demon  
-##  Fun(?) Facts  
-- My singing could make angels cry *(not in a good way)*  
-- 98% of my camera roll: random bugs (both insects and code)  
-- Anime completed list > lines of code written  
-- Professional game-quitter when I lose to noobs  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akashdotpng) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-kamat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akash.kamat.10@gmail.com) 
